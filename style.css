@@ -1,0 +1,22 @@
+h1 {
+    color: rgb(210, 31, 207);
+    text-align: center;
+    font-weight: Bold;
+
+}
+
+* {
+    background-color: rgb(190, 234, 190);
+}
+
+
+body{
+    color:rgb(210, 31, 207);
+    text-align: center;
+
+}
+
+ul{
+    display: table;
+    margin: 0 auto;
+}
